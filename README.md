@@ -1,1 +1,1 @@
-# GitLab-Practical
+# GitLab-Practical basic project description
